@@ -1,0 +1,9 @@
+//compile the file
+
+tsc fileName.tsc
+
+//run the file in node
+node fileName.js
+
+//to have compiled code in a single js file
+tsc --outFile outputFile.js one.tsc two.tsc three.tsc

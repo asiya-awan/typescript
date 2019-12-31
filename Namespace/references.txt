@@ -1,0 +1,3 @@
+https://www.typescriptlang.org/docs/handbook/namespaces.html#first-steps
+
+We call declarations that don’t define an implementation “ambient”. Typically these are defined in .d.ts files. If you’re familiar with C/C++, you can think of these as .h files.
